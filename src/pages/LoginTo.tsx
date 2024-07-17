@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import { StyleSheet, Text, View } from "react-native";
+import {StyleSheet, Text, View} from 'react-native';
 
 const LoginTo: FC = () => {
   return (

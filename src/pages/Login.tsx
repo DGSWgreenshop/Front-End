@@ -6,7 +6,7 @@ import React, {
   TouchableOpacity,
   View,
 } from 'react-native';
-import * as wasi from 'node:wasi';
+
 import {useNavigation} from '@react-navigation/native';
 import {NativeStackNavigationProp} from 'react-native-screens/native-stack';
 
