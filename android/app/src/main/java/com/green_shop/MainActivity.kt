@@ -3,6 +3,8 @@ package com.green_shop
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.fabricEnabled
+import android.os.Bundle; // 추가
+import com.facebook.react.ReactRootView; // 추가
 import com.facebook.react.defaults.DefaultReactActivityDelegate
 
 class MainActivity : ReactActivity() {
